@@ -23,7 +23,9 @@ const Projects = [
     href: 'https://vitalinakovbasiuk.github.io/IceCreamPassion/',
     link: 'https://github.com/VitalinaKovbasiuk/IceCreamPassion',
     technology: 'HTML5, CSS3, JavaScript, Parcel',
-    discription: `This is a team project that we did with my group mates (11 people). I was front-end developer. I made a section Hero-Head, and animation.`,
+    discription: `This is a team project that we did with my group mates (11 people). I was a Scrum master of the project. I made a section Hero, modal form in section franchise, and a scroll button. The landing page is created using HTML, CSS, Java Script. The markup is created for three breakpoints: 480px, 768px, and 1200px. Observed semantics according to HTML5 standards. The sizes of vector and raster graphics are optimized, there is support for displaying pictures for retina screens. Added page favicon.
+
+BEM methodology, SASS preprocessor were also used.`,
   },
   {
     name: 'WebStudio',
@@ -44,7 +46,10 @@ BEM methodology, SASS preprocessor were also used.`,
     link: 'https://github.com/Victor-Rochnyak/Filmoteka',
     technology: 'HTML5, CSS3, JavaScript, Parcel',
     discription: `A short-term team project by 6 collaborators.
-I was a Team Lead assistant & Front-end developer of the project.`,
+I was a Scrum master & Front-end developer of the project. 
+I made Pagination (Create or include page numbers on the main page, Implement pagination when searching for movies by keyword, Draw the corresponding part of the movie when switching to each page), Scroll to top.
+
+The website created from scratch by the prototype in Figma. The project was ready on time within 7 days.`,
   },
 ];
 
