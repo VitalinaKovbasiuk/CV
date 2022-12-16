@@ -7,7 +7,7 @@ export const SummaryContainer = styled.div`
 `;
 
 export const MyName = styled.h1`
-width: 78%;
+width: 90%;
 text-align: center;
 font-size: 50px;
   padding: 10px;
@@ -17,13 +17,14 @@ font-size: 50px;
 `;
 
 export const CvText = styled.p`
+width: 80%;
   font-size: 18px;
   color: #d7d7d7;
   padding-right: 100px;
 `;
 
 export const Developer = styled.p`
-width: 78%;
+width: 90%;
   margin-bottom: 15px;
   padding: 3px;
 
