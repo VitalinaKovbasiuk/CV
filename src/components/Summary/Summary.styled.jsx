@@ -7,6 +7,9 @@ export const SummaryContainer = styled.div`
 `;
 
 export const MyName = styled.h1`
+width: 78%;
+text-align: center;
+font-size: 50px;
   padding: 10px;
   padding-left: 30px;
   background-color: #fec302;
@@ -20,6 +23,7 @@ export const CvText = styled.p`
 `;
 
 export const Developer = styled.p`
+width: 78%;
   margin-bottom: 15px;
   padding: 3px;
 
