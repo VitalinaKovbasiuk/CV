@@ -7,11 +7,11 @@ export const ProjectsContainer = styled.ol`
  color: #d7d7d7;
 `;
 export const TitleProjects = styled.h2`
-  width: 80%;
+ width: 78%;
 
-  margin-top: 92px;
   padding: 5px;
   padding-left: 65px;
+
   background-color: #120a8f;
   color: #ffff;
 

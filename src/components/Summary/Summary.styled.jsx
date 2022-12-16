@@ -17,7 +17,7 @@ font-size: 50px;
 `;
 
 export const CvText = styled.p`
-width: 80%;
+width: 95%;
   font-size: 18px;
   color: #d7d7d7;
   padding-right: 100px;
@@ -26,7 +26,8 @@ width: 80%;
 export const Developer = styled.p`
 width: 90%;
   margin-bottom: 15px;
-  padding: 3px;
+  padding: 10px;
+  text-align: center;
 
   padding-left: 30px;
   font-weight: 700;
