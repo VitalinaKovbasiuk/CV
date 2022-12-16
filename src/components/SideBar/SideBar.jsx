@@ -89,7 +89,7 @@ export default function SideBar() {
                 <MdMyLocation />
               </ContactIcon>
               <MyLink href="https://www.google.com.ua/maps/place/Kotlyarevs'koho+St,+Irpin,+Kyivs'ka+oblast,+08200/">
-                Irpin, Kyiv Oblast
+                Irpin, Kyiv region
               </MyLink>
             </MyLink>
           </TelMail>
