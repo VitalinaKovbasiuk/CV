@@ -9,8 +9,8 @@ export const SideBarContainver = styled.div`
 
 export const Avatar = styled.img`
   position: absolute;
-  top: 3%;
-  left: 15%;
+ top: 3%;
+  // left: 15%;
   box-shadow: 0px 4px 20px 2px #0c0c0c72;
 `;
 
@@ -29,7 +29,7 @@ export const MyContact = styled.h2`
   margin-top: 35px;
 
   border-radius: 3px;
-  background-color: #322f36;
+  background-color: #120a8f;
   color: #fcfefb;
 `;
 

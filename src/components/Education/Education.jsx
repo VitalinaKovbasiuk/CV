@@ -23,12 +23,12 @@ export default function Education() {
 
         <EducationItem>
           <AcademyTitle>
-            Odessa State Academy of Civil Engineering and Architecture
+            National aviation university
           </AcademyTitle>
           <SpecialityTitle>
-            Heating and gas supply and ventilation
+           Master's degree, Sociology
           </SpecialityTitle>
-          <EducationDate>September 2011 - June 2016 | Ukraine</EducationDate>
+          <EducationDate>September 2006 - June 2011 | Ukraine</EducationDate>
         </EducationItem>
       </EducationContainer>
     </>

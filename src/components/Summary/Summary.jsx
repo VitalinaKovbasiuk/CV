@@ -1,18 +1,21 @@
 import React from 'react';
-import { SummaryContainer, MyName, CvText, Developer, } from './Summary.styled';
+import { SummaryContainer, MyName, CvText, Developer } from './Summary.styled';
 
 export default function Summary() {
   return (
     <SummaryContainer>
-      <MyName>Oleksandr Barabash</MyName>
+      <MyName>Vitalina Kovbasiuk</MyName>
       <Developer>Front-End Developer</Developer>
       <CvText>
-        Hello, I am studying Front End technologies. I am glad that you have a
-        Junior vacancy and I want to join your company as a young developer for
-        further development in IT technologies. I have knowledge of HTML, CSS,
-        JavaScript, React, React Redux. I will be glad if you consider my
-        candidacy and we can discuss the details of the vacancy. Sincerely,
-        Oleksandr!
+        Hello, I am a beginner full-stack developer. Motivated and
+        ready to take on challenging tasks. I work well in a team and learn
+        quickly. I have knowledge of Javascript, React, React Redux, HTML, CSS, SASS, Bootstrap, Webpack,
+        GitHub. Responsible: stress-resistant, goal-oriented, sociable, capable
+        of learning, active life position. I'm constantly
+        interested in learning new technologies in web development. I will be glad if you consider my
+        candidacy and we can discuss the details of the vacancy.
+        
+        Sincerely, Vitalina!
       </CvText>
     </SummaryContainer>
   );

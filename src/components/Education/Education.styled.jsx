@@ -17,8 +17,8 @@ export const EducationTitle = styled.h2`
   padding: 5px;
   padding-left: 65px;
 
-  background-color: #fcfefb;
-  color: #2d2d2d;
+  background-color: #120a8f;
+  color: #ffff;
 `;
 export const AcademyTitle = styled.p`
   margin-bottom: 5px;

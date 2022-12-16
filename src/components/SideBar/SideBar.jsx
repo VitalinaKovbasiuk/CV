@@ -22,7 +22,7 @@ export default function SideBar() {
   return (
     <div>
       <Avatar
-        src="https://avatars.githubusercontent.com/u/103022423?v=4"
+        src="https://avatars.githubusercontent.com/u/101979968?v=4"
         alt="avatar"
         width="350"
         height="350"
@@ -31,65 +31,65 @@ export default function SideBar() {
         <ContactContext>
           <MyContact>Contacts</MyContact>
           <TelMail>
-            <MyLink href="tel:+38 093 987 63 53">
+             <MyLink href="tel:+38 066 572 15 94">
               <ContactIcon>
                 <BiPhoneCall />
               </ContactIcon>
-              <MyLink href="tel:+38 093 987 63 53">+38 093 987 63 53</MyLink>
+              <MyLink href="tel:+38 066 572 15 94">+38 066 572 15 94</MyLink>
             </MyLink>
           </TelMail>
 
           <TelMail>
-            <MyLink href="mailto:barabashsan4ik@gmail.com">
+            <MyLink href="mailto:kovbasiukvitalina@gmail.com">
               <ContactIcon>
                 <BiMailSend />
               </ContactIcon>
-              <MyLink href="mailto:barabashsan4ik@gmail.com">
-                barabashsan4ik@gmail.com
+              <MyLink href="mailto:kovbasiukvitalina@gmail.com">
+                kovbasiukvitalina@gmail.com
               </MyLink>
             </MyLink>
           </TelMail>
 
           <TelMail>
-            <MyLink href="https://t.me/Oleksandr_Barabash">
+            <MyLink href="https://t.me/Vitalina_Kovbasiuk">
               <ContactIcon>
                 <FaTelegramPlane />
               </ContactIcon>
-              <MyLink href="https://t.me/Oleksandr_Barabash">
-                Oleksandr_Barabash
+              <MyLink href="https://t.me/Vitalina_Kovbasiuk">
+                Vitalina Kovbasiuk
               </MyLink>
             </MyLink>
           </TelMail>
 
           <TelMail>
-            <MyLink href="https://www.linkedin.com/in/olexandr-barabash-034812139/">
+            <MyLink href="https://www.linkedin.com/in/vitalina/">
               <ContactIcon>
                 <FaLinkedin />
               </ContactIcon>
-              <MyLink href="https://www.linkedin.com/in/olexandr-barabash-034812139/">
-                Linkedin.com
+              <MyLink href="https://www.linkedin.com/in/vitalina/">
+                Linkedin
               </MyLink>
             </MyLink>
           </TelMail>
 
           <TelMail>
-            <MyLink href="https://github.com/OleksandrB93">
+            <MyLink href="https://github.com/VitalinaKovbasiuk">
               <ContactIcon>
                 <GoMarkGithub />
               </ContactIcon>
-              <MyLink href="https://github.com/OleksandrB93">
-                github.com/OleksandrB93
+              <MyLink href="https://github.com/VitalinaKovbasiuk">
+                github.com/VitalinaKovbasiuk
               </MyLink>
             </MyLink>
           </TelMail>
 
           <TelMail>
-            <MyLink href="https://goo.gl/maps/XX8wchQXqgXEHBqV9">
+            <MyLink href="https://www.google.com.ua/maps/place/Kotlyarevs'koho+St,+Irpin,+Kyivs'ka+oblast,+08200/">
               <ContactIcon>
                 <MdMyLocation />
               </ContactIcon>
-              <MyLink href="https://goo.gl/maps/XX8wchQXqgXEHBqV9">
-                Chornomorsk, Odessa Oblast
+              <MyLink href="https://www.google.com.ua/maps/place/Kotlyarevs'koho+St,+Irpin,+Kyivs'ka+oblast,+08200/">
+                Irpin, Kyiv Oblast
               </MyLink>
             </MyLink>
           </TelMail>
