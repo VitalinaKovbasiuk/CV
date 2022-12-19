@@ -31,7 +31,7 @@ export default function SideBar() {
         <ContactContext>
           <MyContact>Contacts</MyContact>
           <TelMail>
-             <MyLink href="tel:+38 066 572 15 94">
+            <MyLink href="tel:+38 066 572 15 94">
               <ContactIcon>
                 <BiPhoneCall />
               </ContactIcon>

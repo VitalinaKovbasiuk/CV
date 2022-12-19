@@ -1,26 +1,19 @@
 import styled from '@emotion/styled';
 
 export const ProjectsContainer = styled.ol`
- margin-top: 10px;
- margin-bottom: 20px;
- margin-left: 65px;
- color: #d7d7d7;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 65px;
+  color: #d7d7d7;
 `;
 export const TitleProjects = styled.h2`
- 
-
   padding: 5px;
   padding-left: 65px;
-
-  
-  color: #4f4245;
-
-  
+  color: #000000;
 `;
 
-
 export const ProjectsItem = styled.li`
-  width: 80.5%;
+  width: 95%;
   margin-bottom: 5px;
   list-style: none;
 `;
@@ -58,6 +51,7 @@ export const LinkContainer = styled.div`
 export const ProjectsDescript = styled.p`
   margin-top: 7px;
   font-size: 14px;
+  color: #666666;
 `;
 
 export const ProjectsTech = styled.p`

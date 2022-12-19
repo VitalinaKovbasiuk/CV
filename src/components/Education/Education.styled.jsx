@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const EducationContainer = styled.div`
-margin-top: 10px;
+  margin-top: 10px;
   margin-left: 65px;
   margin-bottom: 35px;
   color: #d7d7d7;
@@ -12,13 +12,9 @@ export const EducationItem = styled.div`
 `;
 
 export const EducationTitle = styled.h2`
-  width: 78%;
-
   padding: 5px;
   padding-left: 65px;
-
-  background-color: #120a8f;
-  color: #ffff;
+  color: #000000;
 `;
 export const AcademyTitle = styled.p`
   margin-bottom: 5px;
@@ -26,14 +22,14 @@ export const AcademyTitle = styled.p`
   font-weight: 700;
 
   text-decoration: 2px underline;
-  color: #fec601;
+  color: #776368;
 `;
 
 export const SpecialityTitle = styled.p`
   margin-bottom: 2px;
 
   font-size: 14px;
-  color: white;
+  color: #d0abb4;
 `;
 
 export const EducationDate = styled.span`

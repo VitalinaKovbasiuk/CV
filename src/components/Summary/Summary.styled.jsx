@@ -7,24 +7,24 @@ export const SummaryContainer = styled.div`
 `;
 
 export const MyName = styled.h1`
-width: 90%;
-text-align: center;
-font-size: 40px;
+  width: 90%;
+  text-align: center;
+  font-size: 40px;
   // padding: 10px;
   padding-left: 30px;
   background-color: #fff7f9;
-  color: #302f35;
+  color: #4f4245;
 `;
 
 export const CvText = styled.p`
-width: 95%;
+  width: 95%;
   font-size: 18px;
-  color: #d7d7d7;
+  color: #292425;
   padding-right: 100px;
 `;
 
 export const Developer = styled.p`
-width: 90%;
+  width: 90%;
   // margin-bottom: 15px;
   padding: 10px;
   text-align: center;
@@ -34,4 +34,4 @@ width: 90%;
   font-size: 18px;
   color: black;
   background-color: №fff7f9;
-`
+`;
