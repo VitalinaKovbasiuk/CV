@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const SummaryContainer = styled.div`
-  margin-top: 85px;
+  margin-top: 25px;
   margin-left: 60px;
   margin-bottom: 28px;
 `;
@@ -9,10 +9,10 @@ export const SummaryContainer = styled.div`
 export const MyName = styled.h1`
 width: 90%;
 text-align: center;
-font-size: 50px;
-  padding: 10px;
+font-size: 40px;
+  // padding: 10px;
   padding-left: 30px;
-  background-color: #fec302;
+  background-color: #fff7f9;
   color: #302f35;
 `;
 
@@ -25,7 +25,7 @@ width: 95%;
 
 export const Developer = styled.p`
 width: 90%;
-  margin-bottom: 15px;
+  // margin-bottom: 15px;
   padding: 10px;
   text-align: center;
 
@@ -33,5 +33,5 @@ width: 90%;
   font-weight: 700;
   font-size: 18px;
   color: black;
-  background-color: white;
+  background-color: №fff7f9;
 `

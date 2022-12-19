@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const AppContainer = styled.div`
   display: flex;
-  background-color: #990066;
+  background-color: #fff7f9;
   color: #e7e5e5;
 `;
 

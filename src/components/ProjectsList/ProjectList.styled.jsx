@@ -7,13 +7,13 @@ export const ProjectsContainer = styled.ol`
  color: #d7d7d7;
 `;
 export const TitleProjects = styled.h2`
- width: 78%;
+ 
 
   padding: 5px;
   padding-left: 65px;
 
-  background-color: #120a8f;
-  color: #ffff;
+  
+  color: #4f4245;
 
   
 `;
@@ -26,7 +26,7 @@ export const ProjectsItem = styled.li`
 `;
 
 export const ProjectLink = styled.a`
-  color: #fec601;
+  color: #d0abb4;
   font-size: 22px;
   font-weight: 700;
   padding: 3px 0;
@@ -36,7 +36,7 @@ export const ProjectLink = styled.a`
 export const ProjectGit = styled.a`
   padding-bottom: 0px;
 
-  color: #fec601;
+  color: #4f4245;
 `;
 
 export const LinkContainer = styled.div`
@@ -49,7 +49,7 @@ export const LinkContainer = styled.div`
     position: absolute;
     left: 0;
     bottom: 0;
-    background-color: #fec601;
+    background-color: #d0abb4;
     height: 3px;
     width: 100%;
   }
